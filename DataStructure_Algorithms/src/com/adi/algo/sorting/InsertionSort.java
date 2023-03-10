@@ -8,7 +8,7 @@ package com.adi.algo.sorting;
 6: 		j = j-1
 7: 	A[j+1] = key
 
- 	Time Complexity : O(n^2)
+ 	Time Complexity : Worst Case : O(n^2)
 */
 
 public class InsertionSort {
